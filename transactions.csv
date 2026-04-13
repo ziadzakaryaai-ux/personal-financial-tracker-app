@@ -1,0 +1,596 @@
+date,type,category,description,amount
+2024-01-01,income,Salary,Monthly salary,8000
+2024-01-01,expense,Food,Coffee shop,64.08
+2024-01-01,expense,Transport,Uber ride,70.9
+2024-01-02,expense,Food,Takeaway order,95.95
+2024-01-02,expense,Food,Lunch at restaurant,59.35
+2024-01-02,expense,Health,Pharmacy,181.54
+2024-01-03,expense,Health,Dental checkup,143.27
+2024-01-03,expense,Shopping,Shoes,175.19
+2024-01-04,expense,Education,Textbook,294.35
+2024-01-04,expense,Entertainment,Spotify,35.99
+2024-01-04,expense,Education,Udemy course,85.77
+2024-01-05,expense,Entertainment,Spotify,96.5
+2024-01-06,expense,Health,Vitamins,174.78
+2024-01-06,expense,Shopping,Clothes shopping,298.42
+2024-01-07,expense,Entertainment,Concert ticket,40.96
+2024-01-07,expense,Food,Lunch at restaurant,139.03
+2024-01-08,expense,Food,Grocery store,175.97
+2024-01-08,expense,Shopping,Electronics,254.03
+2024-01-09,expense,Transport,Gas station,41.97
+2024-01-09,expense,Health,Gym membership,219.49
+2024-01-11,expense,Education,Textbook,107.19
+2024-01-11,expense,Shopping,Electronics,495.29
+2024-01-12,expense,Transport,Gas station,85.86
+2024-01-12,expense,Education,Online course,130.17
+2024-01-14,expense,Entertainment,Netflix subscription,43.48
+2024-01-15,expense,Entertainment,Cinema ticket,103.48
+2024-01-15,expense,Shopping,Books,114.29
+2024-01-15,expense,Transport,Metro ticket,77.05
+2024-01-16,expense,Health,Dental checkup,145.68
+2024-01-16,expense,Shopping,Electronics,148.69
+2024-01-17,expense,Shopping,Clothes shopping,390.1
+2024-01-17,expense,Education,Online course,103.49
+2024-01-17,expense,Transport,Bus fare,63.68
+2024-01-18,expense,Shopping,Shoes,163.14
+2024-01-19,expense,Food,Lunch at restaurant,142.71
+2024-01-19,expense,Entertainment,Spotify,30.06
+2024-01-20,expense,Shopping,Clothes shopping,479.22
+2024-01-21,expense,Entertainment,Concert ticket,117.86
+2024-01-21,expense,Food,Coffee shop,171.5
+2024-01-21,expense,Health,Doctor visit,71.27
+2024-01-22,expense,Education,Workshop fee,371.47
+2024-01-22,expense,Entertainment,Video game,17.63
+2024-01-23,expense,Education,Udemy course,133.81
+2024-01-23,expense,Transport,Parking fee,95.23
+2024-01-23,expense,Food,Dinner with friends,166.88
+2024-01-24,expense,Transport,Metro ticket,69.38
+2024-01-24,expense,Transport,Gas station,57.49
+2024-01-24,expense,Shopping,Online order,468.01
+2024-01-25,expense,Health,Doctor visit,222.5
+2024-01-25,expense,Shopping,Electronics,247.15
+2024-01-26,expense,Food,Grocery store,60.45
+2024-01-26,expense,Entertainment,Netflix subscription,94.42
+2024-01-27,expense,Transport,Uber ride,16.39
+2024-01-28,expense,Transport,Uber ride,91.49
+2024-01-28,expense,Education,Udemy course,74.8
+2024-01-29,expense,Health,Vitamins,87.84
+2024-01-30,expense,Health,Vitamins,95.61
+2024-01-31,expense,Shopping,Online order,92.45
+2024-02-01,income,Salary,Monthly salary,8000
+2024-02-01,expense,Entertainment,Video game,70.5
+2024-02-01,expense,Education,Online course,285.68
+2024-02-02,expense,Food,Lunch at restaurant,92.47
+2024-02-02,expense,Entertainment,Netflix subscription,48.57
+2024-02-02,expense,Transport,Parking fee,50.38
+2024-02-03,expense,Entertainment,Video game,48.72
+2024-02-04,expense,Shopping,Shoes,94.06
+2024-02-04,expense,Health,Dental checkup,255.73
+2024-02-04,expense,Food,Grocery store,49.94
+2024-02-05,expense,Transport,Bus fare,91.22
+2024-02-06,expense,Food,Dinner with friends,67.74
+2024-02-07,expense,Shopping,Electronics,240.35
+2024-02-07,expense,Health,Dental checkup,208.71
+2024-02-08,expense,Transport,Gas station,29.59
+2024-02-11,expense,Food,Takeaway order,105.82
+2024-02-12,expense,Transport,Uber ride,96.47
+2024-02-12,expense,Food,Grocery store,32.33
+2024-02-12,expense,Food,Grocery store,92.68
+2024-02-13,expense,Transport,Parking fee,63.51
+2024-02-13,expense,Food,Dinner with friends,138.33
+2024-02-13,expense,Health,Gym membership,282.37
+2024-02-14,expense,Health,Gym membership,94.45
+2024-02-15,expense,Entertainment,Video game,57.68
+2024-02-15,expense,Education,Online course,53.26
+2024-02-16,expense,Food,Lunch at restaurant,116.77
+2024-02-16,expense,Entertainment,Cinema ticket,140.99
+2024-02-17,expense,Transport,Gas station,35.65
+2024-02-17,expense,Shopping,Shoes,366.59
+2024-02-17,expense,Education,Workshop fee,52.74
+2024-02-18,expense,Entertainment,Netflix subscription,141.76
+2024-02-18,expense,Transport,Gas station,20.39
+2024-02-19,expense,Transport,Gas station,35.36
+2024-02-20,expense,Entertainment,Cinema ticket,107.81
+2024-02-21,expense,Shopping,Electronics,457.4
+2024-02-21,expense,Education,Online course,82.3
+2024-02-21,expense,Shopping,Electronics,69.84
+2024-02-22,income,Freelance,Freelance project payment,1455.67
+2024-02-22,expense,Health,Vitamins,178.95
+2024-02-23,expense,Food,Lunch at restaurant,33.54
+2024-02-24,expense,Transport,Parking fee,13.24
+2024-02-24,expense,Entertainment,Concert ticket,89.59
+2024-02-24,expense,Shopping,Online order,68.82
+2024-02-25,expense,Education,Online course,364.62
+2024-02-26,expense,Transport,Uber ride,41.83
+2024-02-27,expense,Education,Stationery,390.84
+2024-02-27,expense,Health,Doctor visit,279.96
+2024-02-28,expense,Transport,Metro ticket,89.33
+2024-03-01,income,Salary,Monthly salary,8000
+2024-03-01,expense,Entertainment,Video game,123.3
+2024-03-01,expense,Education,Textbook,143.38
+2024-03-02,expense,Food,Dinner with friends,176.99
+2024-03-02,expense,Education,Stationery,127.85
+2024-03-03,expense,Shopping,Electronics,187.34
+2024-03-03,expense,Education,Textbook,128.02
+2024-03-04,expense,Shopping,Electronics,175.37
+2024-03-04,expense,Food,Coffee shop,83.21
+2024-03-05,expense,Health,Dental checkup,119.41
+2024-03-05,expense,Food,Lunch at restaurant,177.87
+2024-03-06,expense,Entertainment,Netflix subscription,29.63
+2024-03-07,expense,Health,Gym membership,147.83
+2024-03-08,expense,Food,Dinner with friends,181.91
+2024-03-08,expense,Transport,Gas station,13.99
+2024-03-08,expense,Shopping,Clothes shopping,283.96
+2024-03-09,expense,Health,Doctor visit,128.34
+2024-03-09,expense,Food,Coffee shop,132.17
+2024-03-10,expense,Entertainment,Concert ticket,56.75
+2024-03-11,expense,Shopping,Electronics,299.49
+2024-03-12,expense,Health,Vitamins,212.88
+2024-03-13,expense,Health,Gym membership,139.64
+2024-03-13,expense,Education,Online course,156.36
+2024-03-13,expense,Transport,Bus fare,80.72
+2024-03-14,expense,Entertainment,Video game,74.64
+2024-03-14,expense,Health,Doctor visit,168.02
+2024-03-15,expense,Health,Doctor visit,207.89
+2024-03-15,expense,Entertainment,Concert ticket,104.62
+2024-03-15,expense,Bills,Water bill,165.37
+2024-03-16,expense,Transport,Gas station,30.22
+2024-03-16,expense,Transport,Metro ticket,12.2
+2024-03-16,expense,Transport,Bus fare,65.01
+2024-03-17,expense,Shopping,Books,448.76
+2024-03-17,expense,Transport,Bus fare,54.49
+2024-03-18,expense,Health,Pharmacy,271.02
+2024-03-19,expense,Food,Dinner with friends,59.39
+2024-03-19,expense,Education,Workshop fee,212.59
+2024-03-19,expense,Transport,Uber ride,51.08
+2024-03-20,expense,Health,Dental checkup,296.73
+2024-03-20,expense,Bills,Water bill,765.03
+2024-03-21,expense,Education,Workshop fee,199.36
+2024-03-21,expense,Shopping,Online order,384.64
+2024-03-21,expense,Shopping,Books,166.64
+2024-03-22,income,Freelance,Tutoring session,915.97
+2024-03-22,expense,Shopping,Online order,173.57
+2024-03-22,expense,Food,Coffee shop,62.21
+2024-03-23,expense,Food,Grocery store,47.15
+2024-03-24,expense,Transport,Metro ticket,15.78
+2024-03-25,expense,Shopping,Books,78.02
+2024-03-26,expense,Shopping,Shoes,475.73
+2024-03-26,expense,Food,Takeaway order,88.47
+2024-03-28,expense,Education,Stationery,348.71
+2024-03-29,expense,Shopping,Shoes,386.38
+2024-03-29,expense,Health,Doctor visit,161.82
+2024-03-29,expense,Entertainment,Video game,80.56
+2024-03-30,expense,Health,Vitamins,225.53
+2024-03-31,expense,Transport,Parking fee,58.07
+2024-03-31,expense,Shopping,Shoes,303.98
+2024-04-01,income,Salary,Monthly salary,8000
+2024-04-02,expense,Transport,Bus fare,26.36
+2024-04-02,expense,Entertainment,Video game,59.19
+2024-04-03,expense,Entertainment,Video game,52.56
+2024-04-04,expense,Shopping,Electronics,425.71
+2024-04-04,expense,Shopping,Clothes shopping,387.06
+2024-04-04,expense,Food,Coffee shop,60.36
+2024-04-06,expense,Food,Lunch at restaurant,190.93
+2024-04-06,expense,Transport,Uber ride,65.92
+2024-04-06,expense,Transport,Metro ticket,52.62
+2024-04-07,expense,Transport,Bus fare,72.95
+2024-04-08,expense,Transport,Parking fee,64.65
+2024-04-08,expense,Health,Pharmacy,240.0
+2024-04-09,expense,Entertainment,Netflix subscription,93.12
+2024-04-10,expense,Shopping,Books,473.66
+2024-04-10,expense,Transport,Uber ride,63.29
+2024-04-11,expense,Transport,Uber ride,72.75
+2024-04-11,expense,Entertainment,Concert ticket,123.75
+2024-04-12,expense,Food,Coffee shop,115.89
+2024-04-12,expense,Health,Gym membership,48.62
+2024-04-13,expense,Food,Dinner with friends,168.02
+2024-04-13,expense,Food,Dinner with friends,192.94
+2024-04-14,expense,Education,Stationery,297.56
+2024-04-14,expense,Shopping,Online order,380.21
+2024-04-15,expense,Education,Workshop fee,321.12
+2024-04-16,expense,Education,Workshop fee,143.94
+2024-04-17,expense,Education,Online course,147.62
+2024-04-17,expense,Shopping,Online order,387.71
+2024-04-17,expense,Health,Vitamins,120.83
+2024-04-18,expense,Entertainment,Cinema ticket,80.82
+2024-04-19,expense,Entertainment,Spotify,52.75
+2024-04-20,expense,Entertainment,Concert ticket,16.37
+2024-04-20,expense,Transport,Uber ride,31.72
+2024-04-21,expense,Transport,Bus fare,68.13
+2024-04-22,income,Freelance,Freelance project payment,639.58
+2024-04-22,expense,Health,Doctor visit,112.68
+2024-04-23,expense,Shopping,Shoes,288.91
+2024-04-23,expense,Shopping,Shoes,198.86
+2024-04-24,expense,Entertainment,Spotify,48.94
+2024-04-24,expense,Food,Grocery store,76.8
+2024-04-25,expense,Education,Textbook,117.04
+2024-04-25,expense,Health,Vitamins,104.65
+2024-04-26,expense,Education,Workshop fee,258.88
+2024-04-26,expense,Food,Grocery store,73.32
+2024-04-27,expense,Entertainment,Netflix subscription,110.58
+2024-04-28,expense,Food,Lunch at restaurant,119.6
+2024-04-29,expense,Transport,Bus fare,19.23
+2024-04-29,expense,Food,Takeaway order,71.18
+2024-04-30,expense,Entertainment,Cinema ticket,145.34
+2024-05-01,income,Salary,Monthly salary,8000
+2024-05-01,expense,Education,Stationery,89.93
+2024-05-03,expense,Education,Online course,103.1
+2024-05-04,expense,Entertainment,Netflix subscription,149.18
+2024-05-04,expense,Food,Takeaway order,157.6
+2024-05-05,expense,Education,Workshop fee,128.99
+2024-05-05,expense,Bills,Phone bill,415.36
+2024-05-06,expense,Education,Workshop fee,396.51
+2024-05-07,expense,Food,Takeaway order,192.82
+2024-05-09,expense,Health,Doctor visit,101.45
+2024-05-09,expense,Food,Grocery store,63.18
+2024-05-10,expense,Shopping,Books,360.22
+2024-05-11,expense,Food,Grocery store,71.86
+2024-05-12,expense,Education,Stationery,74.91
+2024-05-13,expense,Entertainment,Concert ticket,104.26
+2024-05-14,expense,Shopping,Clothes shopping,295.05
+2024-05-14,expense,Health,Doctor visit,275.27
+2024-05-14,expense,Education,Textbook,74.99
+2024-05-15,expense,Health,Dental checkup,278.72
+2024-05-16,expense,Shopping,Electronics,364.88
+2024-05-17,expense,Health,Vitamins,148.19
+2024-05-17,expense,Food,Dinner with friends,152.22
+2024-05-17,expense,Entertainment,Netflix subscription,27.33
+2024-05-18,expense,Education,Workshop fee,255.49
+2024-05-18,expense,Food,Coffee shop,123.72
+2024-05-18,expense,Education,Textbook,214.68
+2024-05-19,expense,Entertainment,Cinema ticket,149.59
+2024-05-19,expense,Shopping,Books,486.07
+2024-05-20,expense,Shopping,Electronics,194.48
+2024-05-21,expense,Transport,Gas station,47.05
+2024-05-22,income,Freelance,Tutoring session,1917.79
+2024-05-22,expense,Food,Dinner with friends,35.85
+2024-05-22,expense,Entertainment,Spotify,30.65
+2024-05-23,expense,Education,Workshop fee,338.72
+2024-05-23,expense,Food,Takeaway order,103.16
+2024-05-25,expense,Shopping,Books,392.0
+2024-05-25,expense,Transport,Gas station,59.43
+2024-05-26,expense,Shopping,Books,104.64
+2024-05-26,expense,Health,Dental checkup,245.81
+2024-05-26,expense,Health,Doctor visit,113.9
+2024-05-28,expense,Transport,Uber ride,51.53
+2024-05-29,expense,Education,Textbook,224.43
+2024-05-30,expense,Education,Udemy course,195.42
+2024-05-30,expense,Shopping,Books,159.68
+2024-05-31,expense,Shopping,Online order,464.84
+2024-05-31,expense,Education,Textbook,352.41
+2024-06-01,income,Salary,Monthly salary,8000
+2024-06-01,expense,Education,Stationery,168.96
+2024-06-02,expense,Entertainment,Netflix subscription,53.18
+2024-06-02,expense,Entertainment,Concert ticket,93.29
+2024-06-03,expense,Education,Textbook,206.29
+2024-06-03,expense,Shopping,Electronics,199.6
+2024-06-04,expense,Shopping,Books,469.78
+2024-06-04,expense,Education,Textbook,393.27
+2024-06-05,expense,Shopping,Online order,435.21
+2024-06-06,expense,Entertainment,Video game,110.21
+2024-06-07,expense,Shopping,Online order,272.9
+2024-06-07,expense,Food,Grocery store,110.41
+2024-06-08,expense,Education,Online course,355.97
+2024-06-08,expense,Shopping,Clothes shopping,286.68
+2024-06-09,expense,Health,Doctor visit,140.69
+2024-06-10,expense,Shopping,Electronics,202.35
+2024-06-11,expense,Health,Pharmacy,259.98
+2024-06-11,expense,Education,Workshop fee,183.0
+2024-06-12,expense,Health,Vitamins,265.54
+2024-06-15,expense,Transport,Uber ride,49.06
+2024-06-15,expense,Food,Lunch at restaurant,99.86
+2024-06-15,expense,Health,Gym membership,273.92
+2024-06-17,expense,Entertainment,Spotify,65.6
+2024-06-17,expense,Transport,Metro ticket,57.8
+2024-06-18,expense,Education,Textbook,109.49
+2024-06-18,expense,Food,Takeaway order,176.75
+2024-06-19,expense,Transport,Bus fare,92.15
+2024-06-19,expense,Transport,Metro ticket,51.5
+2024-06-20,expense,Entertainment,Netflix subscription,136.35
+2024-06-21,expense,Entertainment,Concert ticket,36.33
+2024-06-22,income,Freelance,Design work,1981.48
+2024-06-22,expense,Shopping,Electronics,255.58
+2024-06-23,expense,Shopping,Books,97.99
+2024-06-24,expense,Entertainment,Concert ticket,54.94
+2024-06-25,expense,Food,Dinner with friends,69.41
+2024-06-25,expense,Education,Online course,368.72
+2024-06-26,expense,Education,Udemy course,321.51
+2024-06-26,expense,Transport,Parking fee,82.17
+2024-06-27,expense,Transport,Parking fee,32.56
+2024-06-28,expense,Education,Textbook,269.89
+2024-06-28,expense,Health,Pharmacy,113.41
+2024-06-29,expense,Entertainment,Cinema ticket,27.17
+2024-06-30,expense,Health,Vitamins,77.42
+2024-07-01,income,Salary,Monthly salary,8000
+2024-07-01,expense,Entertainment,Concert ticket,82.74
+2024-07-02,expense,Transport,Gas station,92.26
+2024-07-03,expense,Education,Udemy course,311.3
+2024-07-03,expense,Entertainment,Netflix subscription,78.22
+2024-07-03,expense,Food,Grocery store,155.75
+2024-07-04,expense,Health,Vitamins,291.16
+2024-07-05,expense,Entertainment,Netflix subscription,121.74
+2024-07-05,expense,Food,Coffee shop,116.58
+2024-07-06,expense,Health,Gym membership,187.83
+2024-07-07,expense,Entertainment,Netflix subscription,106.1
+2024-07-07,expense,Shopping,Clothes shopping,328.8
+2024-07-08,expense,Entertainment,Concert ticket,44.88
+2024-07-08,expense,Food,Dinner with friends,183.69
+2024-07-08,expense,Entertainment,Video game,30.75
+2024-07-10,income,Freelance,Design work,674.18
+2024-07-10,expense,Bills,Internet bill,372.05
+2024-07-11,expense,Health,Dental checkup,143.16
+2024-07-12,expense,Transport,Bus fare,68.94
+2024-07-12,expense,Education,Stationery,265.48
+2024-07-13,expense,Entertainment,Netflix subscription,108.19
+2024-07-13,expense,Transport,Bus fare,50.02
+2024-07-13,expense,Transport,Gas station,18.94
+2024-07-14,expense,Education,Udemy course,71.19
+2024-07-14,expense,Entertainment,Cinema ticket,145.71
+2024-07-15,expense,Food,Grocery store,135.51
+2024-07-15,expense,Bills,Electricity bill,135.4
+2024-07-16,expense,Transport,Parking fee,28.47
+2024-07-17,expense,Transport,Parking fee,29.44
+2024-07-17,expense,Education,Textbook,165.0
+2024-07-18,expense,Food,Coffee shop,174.51
+2024-07-19,expense,Transport,Parking fee,32.56
+2024-07-20,expense,Health,Pharmacy,65.59
+2024-07-21,expense,Education,Textbook,256.1
+2024-07-22,income,Freelance,Design work,578.6
+2024-07-22,expense,Food,Lunch at restaurant,105.72
+2024-07-22,expense,Education,Udemy course,229.63
+2024-07-23,expense,Transport,Parking fee,13.9
+2024-07-24,expense,Education,Workshop fee,155.57
+2024-07-24,expense,Health,Pharmacy,46.42
+2024-07-25,expense,Shopping,Books,358.74
+2024-07-26,expense,Shopping,Clothes shopping,454.67
+2024-07-27,expense,Transport,Uber ride,21.36
+2024-07-28,expense,Health,Gym membership,132.84
+2024-07-28,expense,Health,Gym membership,152.5
+2024-07-29,expense,Food,Lunch at restaurant,173.5
+2024-07-29,expense,Health,Dental checkup,224.63
+2024-07-30,expense,Shopping,Online order,236.22
+2024-07-31,expense,Shopping,Books,378.33
+2024-07-31,expense,Entertainment,Video game,57.19
+2024-08-01,income,Salary,Monthly salary,8000
+2024-08-01,expense,Transport,Bus fare,16.04
+2024-08-02,expense,Food,Dinner with friends,37.38
+2024-08-02,expense,Health,Gym membership,249.18
+2024-08-03,expense,Health,Dental checkup,119.0
+2024-08-03,expense,Food,Dinner with friends,83.65
+2024-08-04,expense,Education,Stationery,353.83
+2024-08-04,expense,Health,Pharmacy,291.47
+2024-08-05,expense,Entertainment,Netflix subscription,93.02
+2024-08-05,expense,Transport,Metro ticket,69.11
+2024-08-06,expense,Food,Coffee shop,172.17
+2024-08-07,expense,Education,Udemy course,250.94
+2024-08-08,expense,Education,Workshop fee,391.09
+2024-08-08,expense,Education,Workshop fee,264.75
+2024-08-09,expense,Food,Takeaway order,187.24
+2024-08-09,expense,Education,Udemy course,60.13
+2024-08-10,income,Freelance,Design work,1882.31
+2024-08-10,expense,Transport,Metro ticket,60.97
+2024-08-11,expense,Transport,Uber ride,18.26
+2024-08-12,expense,Shopping,Books,254.14
+2024-08-12,expense,Transport,Gas station,38.05
+2024-08-13,expense,Health,Pharmacy,268.5
+2024-08-14,expense,Education,Workshop fee,67.42
+2024-08-15,income,Gift,Family support,398.58
+2024-08-15,expense,Shopping,Books,172.93
+2024-08-16,expense,Food,Coffee shop,97.38
+2024-08-16,expense,Entertainment,Concert ticket,80.7
+2024-08-17,expense,Food,Grocery store,91.15
+2024-08-17,expense,Food,Lunch at restaurant,56.8
+2024-08-18,expense,Education,Textbook,317.46
+2024-08-18,expense,Entertainment,Spotify,31.2
+2024-08-18,expense,Shopping,Books,129.06
+2024-08-19,expense,Health,Doctor visit,165.07
+2024-08-20,expense,Education,Udemy course,75.23
+2024-08-20,expense,Education,Online course,202.68
+2024-08-21,expense,Food,Coffee shop,123.64
+2024-08-22,expense,Shopping,Electronics,101.83
+2024-08-22,expense,Food,Coffee shop,50.94
+2024-08-23,expense,Shopping,Electronics,89.66
+2024-08-23,expense,Education,Online course,135.16
+2024-08-23,expense,Shopping,Shoes,85.39
+2024-08-24,expense,Health,Gym membership,89.82
+2024-08-24,expense,Education,Textbook,76.73
+2024-08-24,expense,Health,Pharmacy,173.26
+2024-08-25,expense,Education,Udemy course,172.88
+2024-08-26,expense,Health,Doctor visit,93.79
+2024-08-26,expense,Transport,Gas station,27.75
+2024-08-26,expense,Transport,Uber ride,25.94
+2024-08-27,expense,Shopping,Books,389.5
+2024-08-27,expense,Education,Workshop fee,207.12
+2024-08-28,expense,Education,Workshop fee,163.12
+2024-08-28,expense,Health,Gym membership,70.76
+2024-08-28,expense,Food,Dinner with friends,99.6
+2024-08-29,expense,Entertainment,Concert ticket,22.58
+2024-08-30,expense,Entertainment,Video game,76.01
+2024-08-30,expense,Food,Coffee shop,169.71
+2024-09-01,income,Salary,Monthly salary,8000
+2024-09-01,expense,Education,Online course,265.25
+2024-09-01,expense,Shopping,Books,311.15
+2024-09-01,expense,Education,Online course,207.41
+2024-09-02,expense,Health,Doctor visit,116.81
+2024-09-02,expense,Shopping,Shoes,117.89
+2024-09-04,expense,Education,Udemy course,393.83
+2024-09-06,expense,Food,Grocery store,147.37
+2024-09-06,expense,Shopping,Shoes,285.24
+2024-09-07,expense,Entertainment,Spotify,67.3
+2024-09-08,expense,Health,Dental checkup,44.14
+2024-09-08,expense,Health,Gym membership,47.8
+2024-09-10,expense,Health,Dental checkup,265.79
+2024-09-11,expense,Education,Textbook,370.86
+2024-09-12,expense,Health,Vitamins,64.82
+2024-09-13,expense,Food,Coffee shop,120.61
+2024-09-13,expense,Health,Gym membership,249.56
+2024-09-14,expense,Education,Workshop fee,82.71
+2024-09-14,expense,Health,Vitamins,167.29
+2024-09-15,income,Gift,Family support,254.08
+2024-09-15,expense,Education,Stationery,117.2
+2024-09-16,expense,Transport,Uber ride,36.62
+2024-09-16,expense,Education,Online course,227.69
+2024-09-16,expense,Education,Workshop fee,63.21
+2024-09-17,expense,Education,Workshop fee,95.87
+2024-09-18,expense,Transport,Metro ticket,84.82
+2024-09-19,expense,Education,Textbook,302.41
+2024-09-19,expense,Food,Dinner with friends,85.57
+2024-09-20,expense,Shopping,Shoes,178.22
+2024-09-20,expense,Health,Vitamins,93.18
+2024-09-21,expense,Education,Stationery,366.39
+2024-09-22,income,Freelance,Tutoring session,1920.7
+2024-09-22,expense,Shopping,Electronics,400.16
+2024-09-22,expense,Health,Vitamins,290.89
+2024-09-22,expense,Education,Textbook,330.44
+2024-09-23,expense,Entertainment,Netflix subscription,101.56
+2024-09-24,expense,Food,Takeaway order,173.21
+2024-09-24,expense,Entertainment,Netflix subscription,118.02
+2024-09-24,expense,Entertainment,Video game,137.22
+2024-09-25,expense,Shopping,Clothes shopping,475.89
+2024-09-26,expense,Shopping,Electronics,468.71
+2024-09-27,expense,Shopping,Shoes,218.28
+2024-09-28,expense,Food,Coffee shop,60.42
+2024-09-29,expense,Food,Coffee shop,162.45
+2024-09-30,expense,Entertainment,Video game,108.97
+2024-10-01,income,Salary,Monthly salary,8000
+2024-10-01,expense,Health,Vitamins,151.12
+2024-10-04,expense,Education,Textbook,242.08
+2024-10-05,expense,Bills,Phone bill,177.83
+2024-10-05,expense,Entertainment,Cinema ticket,55.66
+2024-10-07,expense,Education,Workshop fee,209.99
+2024-10-08,expense,Shopping,Shoes,291.22
+2024-10-09,expense,Transport,Metro ticket,36.21
+2024-10-09,expense,Food,Takeaway order,83.51
+2024-10-10,expense,Health,Pharmacy,171.34
+2024-10-11,expense,Health,Dental checkup,242.33
+2024-10-12,expense,Food,Dinner with friends,177.2
+2024-10-12,expense,Food,Dinner with friends,196.59
+2024-10-13,expense,Food,Coffee shop,161.93
+2024-10-14,expense,Health,Pharmacy,238.31
+2024-10-15,expense,Food,Coffee shop,118.28
+2024-10-16,expense,Transport,Bus fare,98.27
+2024-10-16,expense,Shopping,Online order,415.17
+2024-10-18,expense,Shopping,Clothes shopping,182.05
+2024-10-18,expense,Food,Grocery store,179.44
+2024-10-19,expense,Entertainment,Concert ticket,68.76
+2024-10-20,expense,Shopping,Electronics,66.48
+2024-10-20,expense,Health,Doctor visit,107.25
+2024-10-21,expense,Food,Coffee shop,69.18
+2024-10-21,expense,Education,Udemy course,202.93
+2024-10-21,expense,Shopping,Books,452.59
+2024-10-22,income,Freelance,Freelance project payment,1244.3
+2024-10-22,expense,Education,Workshop fee,143.35
+2024-10-24,expense,Shopping,Shoes,497.79
+2024-10-25,expense,Entertainment,Spotify,28.85
+2024-10-26,expense,Entertainment,Spotify,75.2
+2024-10-27,expense,Transport,Bus fare,41.64
+2024-10-27,expense,Food,Coffee shop,130.67
+2024-10-28,expense,Health,Pharmacy,50.26
+2024-10-29,expense,Entertainment,Concert ticket,123.15
+2024-10-29,expense,Health,Doctor visit,287.25
+2024-10-30,expense,Education,Stationery,62.18
+2024-11-01,income,Salary,Monthly salary,8000
+2024-11-01,expense,Entertainment,Spotify,66.69
+2024-11-01,expense,Food,Takeaway order,47.62
+2024-11-02,expense,Entertainment,Spotify,74.93
+2024-11-04,expense,Entertainment,Video game,57.44
+2024-11-05,expense,Food,Lunch at restaurant,152.42
+2024-11-06,expense,Shopping,Shoes,102.99
+2024-11-07,expense,Health,Vitamins,87.93
+2024-11-07,expense,Entertainment,Video game,42.02
+2024-11-08,expense,Food,Dinner with friends,51.08
+2024-11-09,expense,Food,Coffee shop,140.21
+2024-11-09,expense,Health,Pharmacy,178.5
+2024-11-10,income,Freelance,Design work,1777.04
+2024-11-10,expense,Health,Doctor visit,244.3
+2024-11-10,expense,Bills,Internet bill,184.95
+2024-11-11,expense,Transport,Metro ticket,81.13
+2024-11-13,expense,Entertainment,Video game,123.49
+2024-11-13,expense,Transport,Parking fee,89.58
+2024-11-15,expense,Shopping,Shoes,234.86
+2024-11-15,expense,Shopping,Shoes,83.19
+2024-11-16,expense,Health,Pharmacy,151.49
+2024-11-16,expense,Health,Dental checkup,123.02
+2024-11-16,expense,Education,Workshop fee,273.93
+2024-11-17,expense,Transport,Bus fare,55.26
+2024-11-18,expense,Education,Online course,231.34
+2024-11-18,expense,Entertainment,Cinema ticket,36.87
+2024-11-18,expense,Health,Doctor visit,123.43
+2024-11-19,expense,Entertainment,Netflix subscription,48.83
+2024-11-19,expense,Health,Dental checkup,104.1
+2024-11-19,expense,Health,Gym membership,195.9
+2024-11-21,expense,Health,Doctor visit,76.22
+2024-11-21,expense,Education,Workshop fee,168.17
+2024-11-23,expense,Food,Lunch at restaurant,190.74
+2024-11-23,expense,Education,Workshop fee,142.63
+2024-11-23,expense,Transport,Parking fee,47.49
+2024-11-24,expense,Shopping,Shoes,180.35
+2024-11-24,expense,Entertainment,Video game,48.06
+2024-11-25,expense,Shopping,Electronics,254.09
+2024-11-25,expense,Health,Pharmacy,72.68
+2024-11-26,expense,Shopping,Online order,203.09
+2024-11-27,expense,Education,Udemy course,306.97
+2024-11-28,expense,Shopping,Online order,392.3
+2024-11-28,expense,Health,Pharmacy,116.16
+2024-11-28,expense,Shopping,Clothes shopping,170.36
+2024-11-29,expense,Food,Lunch at restaurant,72.24
+2024-11-30,expense,Shopping,Online order,483.21
+2024-12-01,income,Salary,Monthly salary,8000
+2024-12-01,expense,Education,Udemy course,376.81
+2024-12-01,expense,Health,Gym membership,81.26
+2024-12-01,expense,Transport,Bus fare,99.64
+2024-12-02,expense,Entertainment,Video game,18.13
+2024-12-03,expense,Shopping,Online order,146.81
+2024-12-03,expense,Entertainment,Netflix subscription,21.82
+2024-12-03,expense,Shopping,Shoes,447.05
+2024-12-04,expense,Shopping,Electronics,291.51
+2024-12-04,expense,Education,Online course,200.82
+2024-12-05,expense,Health,Gym membership,236.24
+2024-12-05,expense,Entertainment,Netflix subscription,69.08
+2024-12-05,expense,Bills,Rent,236.26
+2024-12-06,expense,Food,Dinner with friends,110.77
+2024-12-06,expense,Education,Workshop fee,147.9
+2024-12-07,expense,Health,Dental checkup,62.08
+2024-12-07,expense,Food,Dinner with friends,87.18
+2024-12-07,expense,Entertainment,Concert ticket,141.76
+2024-12-08,expense,Transport,Parking fee,55.82
+2024-12-08,expense,Food,Lunch at restaurant,27.0
+2024-12-09,expense,Education,Stationery,231.77
+2024-12-09,expense,Transport,Parking fee,90.38
+2024-12-10,income,Freelance,Tutoring session,977.8
+2024-12-10,expense,Bills,Water bill,515.61
+2024-12-11,expense,Health,Vitamins,221.36
+2024-12-11,expense,Entertainment,Video game,125.13
+2024-12-12,expense,Health,Pharmacy,294.57
+2024-12-13,expense,Education,Online course,258.92
+2024-12-13,expense,Entertainment,Concert ticket,92.98
+2024-12-14,expense,Shopping,Online order,285.9
+2024-12-14,expense,Health,Dental checkup,239.14
+2024-12-15,expense,Transport,Uber ride,61.53
+2024-12-15,expense,Health,Pharmacy,81.51
+2024-12-16,expense,Shopping,Online order,235.83
+2024-12-17,expense,Health,Vitamins,265.66
+2024-12-18,expense,Food,Grocery store,113.36
+2024-12-18,expense,Entertainment,Video game,85.94
+2024-12-19,expense,Transport,Bus fare,92.09
+2024-12-20,expense,Entertainment,Spotify,97.36
+2024-12-21,expense,Transport,Gas station,60.23
+2024-12-22,income,Freelance,Design work,1656.76
+2024-12-22,expense,Health,Vitamins,115.6
+2024-12-22,expense,Entertainment,Concert ticket,141.05
+2024-12-23,expense,Entertainment,Spotify,31.45
+2024-12-23,expense,Health,Dental checkup,132.52
+2024-12-24,expense,Education,Udemy course,384.11
+2024-12-24,expense,Education,Textbook,151.66
+2024-12-24,expense,Entertainment,Netflix subscription,61.76
+2024-12-25,expense,Entertainment,Video game,43.89
+2024-12-26,expense,Entertainment,Concert ticket,108.98
+2024-12-26,expense,Transport,Uber ride,65.41
+2024-12-27,expense,Transport,Uber ride,70.29
+2024-12-27,expense,Transport,Metro ticket,14.72
+2024-12-28,expense,Health,Vitamins,57.15
+2024-12-29,expense,Food,Takeaway order,196.02
+2024-12-29,expense,Transport,Bus fare,68.76
+2024-12-30,expense,Shopping,Books,342.74
+2024-12-30,expense,Education,Udemy course,162.41
+2024-12-30,expense,Health,Pharmacy,275.14
