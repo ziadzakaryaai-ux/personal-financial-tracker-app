@@ -1,0 +1,83 @@
+Finance Analyzer
+Personal Financial Dashboard  ·  Python · Pandas · Matplotlib · Streamlit
+github.com/ziadzakaryaai-ux/finance-analyzer
+
+Project Overview
+Finance Analyzer is an interactive web dashboard that turns raw transaction data into clear financial insights. Upload a CSV of your transactions and instantly see where your money goes, how your balance trends over time, which expenses are unusually high, and whether your savings rate is on track — all in a dark-themed UI built for clarity.
+
+Built as a capstone project during a self-directed Python and data analysis learning path, progressing from pure Python scripts through Pandas and NumPy to a fully deployed Streamlit web application.
+
+Features
+
+ 	Dynamic filtering
+Filter all charts and metrics by month and category from the sidebar. Everything updates instantly with no page reload.
+
+ 	Summary metrics
+Four headline cards showing total income, total expenses, net balance, and savings rate — color-coded green for healthy, red for negative.
+
+ 	Monthly income vs expenses
+Side-by-side bar chart comparing income and spending for every month in the dataset.
+
+ 	Spending by category
+Horizontal bar chart ranked from highest to lowest spend, highlighting your biggest cost category in red.
+
+ 	Net balance trend
+Line chart showing monthly balance over time with green fill above zero and red fill below.
+
+ 	Outlier detection
+Automatically flags statistically unusual transactions using mean + 1.8 standard deviations — no manual threshold needed.
+
+ 	3-month rolling average
+Smoothed spending trend overlaid on monthly data to cut through short-term noise.
+
+Tech Stack
+
+Layer	Tool	Purpose
+Data loading & cleaning	Pandas	read_csv, date parsing, groupby, resample
+Numerical analysis	NumPy	Rolling averages, std deviation, outlier detection
+Visualizations	Matplotlib	Bar, line, pie charts with custom dark theme
+Web application	Streamlit	Interactive UI, file upload, sidebar filters
+Deployment	Streamlit Cloud	Free hosting with public URL for portfolio
+
+CSV Format
+The app expects a CSV file with these five columns:
+
+Column	Type	Example values
+date	string	2024-01-15
+type	string	income  or  expense
+category	string	Food, Transport, Salary, Bills
+description	string	Lunch at restaurant
+amount	float	59.35
+
+A sample file with 595 realistic transactions spanning all of 2024 is included in the repository.
+
+Getting Started
+1. Clone the repository
+git clone https://github.com/YOURUSERNAME/finance-analyzer.git
+cd finance-analyzer
+
+2. Install dependencies
+pip install -r requirements.txt
+
+3. Run the app
+streamlit run app.py
+The app opens at http://localhost:8501. Upload your transactions.csv from the sidebar.
+
+Project Structure
+File	Description
+app.py	Main Streamlit application — all UI, charts, and analysis logic
+transactions.csv	Sample dataset with 595 transactions across 2024
+requirements.txt	Python dependencies (pandas, matplotlib, numpy, streamlit)
+README.md	Project documentation
+
+Roadmap
+•	Export filtered report as PDF
+•	Budget target setting per category with progress bars
+•	Multi-year comparison view
+•	AI-powered spending insights using Claude API
+•	React frontend with Flask REST API backend
+
+Author
+Built by Ziad — first-year Mechanical Engineering student at Ain Shams University, self-teaching Python, data analysis, and AI Engineering.
+
+GitHub: github.com/ziadzakaryaai-ux
